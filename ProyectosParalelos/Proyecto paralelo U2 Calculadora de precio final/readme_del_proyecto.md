@@ -1,4 +1,4 @@
-# Calculadora de Precio Final con IVA y Descuentos 💶
+# Calculadora de Precio Final con IVA y Descuentos
 
 Aplicación de escritorio desarrollada en Python utilizando la librería `Tkinter` (y su módulo temático `ttk`). Esta herramienta permite calcular el desglose completo del precio final de un producto a partir de su precio base, aplicando diferentes tipos de IVA y porcentajes de descuento.
 
